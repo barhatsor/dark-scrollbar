@@ -1,0 +1,49 @@
+@-moz-document domain("github.com"), domain("dev.to"), domain("twitter.com"), domain("github.com"), domain("stackoverflow.com"), domain("dribbble.com"), domain("stackexchange.com"), domain("wikipedia.com"), domain("google.com"), domain("material.io"), domain("apple.com"), domain("undraw.co"), domain("codepen.io"), domain("spotify.com"), domain("duckduckgo.com") {
+/* ==UserStyle==
+@name        Dark Scrollbar
+@version     0.0.1
+@description Dark scrollbars for select websites.
+@namespace   barhatsor
+@author      barhatsor
+@homepageURL https://github.com/barhatsor/dark-scrollbar
+@license     MIT License
+@preprocessor uso
+==/UserStyle== */
+::-webkit-scrollbar {
+  width: 16px;
+}
+::-webkit-scrollbar-thumb {
+  background: #5f6368;
+  background-clip: padding-box;
+  border: 4px solid transparent;
+  border-radius: 8px;
+  box-shadow: none;
+  min-height: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #777c83;
+}
+::-webkit-scrollbar-track {
+  background: none;
+  border: none;
+}
+}
+
+@-moz-document domain("dribbble.com"), domain("stackexchange.com"), domain("wikipedia.com"), domain("google.com"), domain("material.io"), domain("apple.com"), domain("undraw.co") {
+::-webkit-scrollbar-thumb {
+  background-color: #dadce0;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #bfc3ca;
+}
+}
+
+@-moz-document domain("twitter.com"), domain("dev.to") {
+::-webkit-scrollbar-thumb {
+  background-color: #253341;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #384d61;
+}
+
+}
