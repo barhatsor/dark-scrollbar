@@ -50,9 +50,9 @@
 
 @-moz-document domain("youtube.com") {
 ::-webkit-scrollbar-thumb {
-  background-color: #212121;
+  background-color: #313131;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #3b3b3b;
+  background-color: #4a4a4a;
 }
 }
