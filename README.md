@@ -9,7 +9,6 @@ A fun Userstyle in Stylus that lets you change the scrollbar to dark on sites li
 
 ## Where does it apply?
 - github.com
-- youtube.com
 - dev.to
 - twitter.com
 - github.com
@@ -20,6 +19,8 @@ A fun Userstyle in Stylus that lets you change the scrollbar to dark on sites li
 #### Ocean scrollbar
 - twitter.com
 - dev.to
+#### Gray scrollbar
+- youtube.com
 #### Special light scrollbar
 - dribbble.com
 - stackexchange.com
