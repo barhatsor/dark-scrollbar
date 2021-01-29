@@ -29,7 +29,7 @@
 }
 }
 
-@-moz-document domain("dribbble.com"), domain("stackexchange.com"), domain("wikipedia.com"), domain("google.com"), domain("material.io"), domain("apple.com"), domain("undraw.co") {
+@-moz-document domain("dribbble.com"), domain("stackexchange.com"), domain("wikipedia.com"), domain("google.com"), domain("material.io"), domain("apple.com"), domain("undraw.co"), domain("github.com") {
 ::-webkit-scrollbar-thumb {
   background-color: #dadce0;
 }
