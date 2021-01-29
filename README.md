@@ -8,7 +8,6 @@ A fun Userstyle in Stylus that lets you change the scrollbar to dark on sites li
 3. Enjoy!
 
 ## Where does it apply?
-- github.com
 - dev.to
 - twitter.com
 - github.com
@@ -29,3 +28,4 @@ A fun Userstyle in Stylus that lets you change the scrollbar to dark on sites li
 - material.io
 - apple.com
 - undraw.co
+- github.com
