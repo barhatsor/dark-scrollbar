@@ -29,3 +29,4 @@ A fun Userstyle in Stylus that lets you change the scrollbar to dark on sites li
 - apple.com
 - undraw.co
 - github.com
+- npmjs.com
